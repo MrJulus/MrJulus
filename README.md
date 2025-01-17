@@ -13,4 +13,4 @@ You can also visit my small website : https://mr-julus.is-a.dev <br>
 -   👨‍💻 My small website https://mr-julus.is-a.dev <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://github.com/mr-julus" target="blank"><img src="https://skillicons.dev/icons?i=nodejs,js,html,css,git,github,py&perline=18" width="100%"></a>
+<a href="https://github.com/mr-julus" target="blank"><img src="https://skillicons.dev/icons?i=nodejs,js,py,html,css,git,github&perline=18" width="100%"></a>
