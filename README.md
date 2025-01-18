@@ -6,7 +6,7 @@ I like to develop small projects just for fun. <br>
 I like playing video games, I play Brawl stars or Fortnite (on my phone...). <br>
 I'm probably coding “Dark Dus” <br>
 - which is a project I created because I had trouble finding a Fortnite client that uses fnbr on github. <br><br>
-You can also visit my small website : https://mr-julus.is-a.dev <br>
+> You can also visit my small website : https://mr-julus.is-a.dev <br>
 
 <h3 align="left">Most Used Languages:</h3>
 
@@ -20,4 +20,4 @@ You can also visit my small website : https://mr-julus.is-a.dev <br>
 <a href="https://github.com/mr-julus" target="blank"><img src="https://skillicons.dev/icons?i=nodejs,js,py,html,css,git,github&perline=18" width="100%"></a>
 
 ### 💬 Reach Me On:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/mq_julus)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/mrjulus)
