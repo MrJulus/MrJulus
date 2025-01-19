@@ -5,7 +5,7 @@ I'm 17 soon to be 18 and I'm from Switzerland. <br>
 I like to develop small projects just for fun. <br>
 I like playing video games, I play Brawl stars or Fortnite (on my phone...). <br>
 I'm probably coding “Dark Dus” <br>
-- which is a project I created because I had trouble finding a Fortnite Bot Lobby, so I decided to create one. <br><br>
+- which is a project I created because I had trouble finding a Fortnite Bot Lobby, so I decided to create one. <br>
 
 <h3 align="left">Most Used Languages:</h3>
 
