@@ -12,7 +12,7 @@ I'm probably coding “Dark Dus” <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-julus&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Summary:</h3>
--   ⚙️ I’m currently working on Dark Dus (https://github.com/DarkDus/CustomFortniteBot) <br>
+-   ⚙️ I’m currently working on Dark Dus (https://github.com/DarkDus/CustomFortniteBotLobby) <br>
 -   👨‍💻 You can also visit my small website: https://mr-julus.is-a.dev <br>
 
 <h3 align="left">Languages and Tools:</h3>
