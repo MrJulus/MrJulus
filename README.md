@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Mr_Julus</h1>
 <h3 align="left">Who I am ? </h3>
 A Junior Developper <br>
-I'm 17 soon to be 18 and I'm from Switzerland. <br>
+I'm 17 (almost 18) and I'm from Switzerland. <br>
 I like to develop small projects just for fun. <br>
 I like playing video games, I play Brawl stars or Fortnite (on my phone...). <br>
 I'm probably coding “DarkDus” <br>
