@@ -7,9 +7,13 @@ I like playing video games, I play Brawl stars or Fortnite (on my phone...). <br
 I'm probably coding “DarkDus” <br>
 - which is a project I created because I had trouble finding a Fortnite Bot Lobby, so I decided to create one. <br>
 
+<h3 align="left">Accounts:</h3>
+-   DarkDus - A Custom Fortnite Bot Lobby (https://github.com/DarkDusOfficial/) <br>
+-   MrJulusOldRepository - My old repositories are there (https://github.com/MrJulusOldRepository/) <br>
+
 <h3 align="left">Most Used Languages:</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-julus&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJuluss&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Summary:</h3>
 -   ⚙️ I’m currently working on Dark Dus (https://github.com/DarkDusOfficial/CustomFortniteBotLobbby) <br>
