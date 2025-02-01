@@ -12,8 +12,7 @@ I'm probably coding “DarkDus” <br>
 -   MrJulusOldRepository - My old repositories are there (https://github.com/MrJulusOldRepository/) <br>
 
 <h3 align="left">Most Used Languages:</h3>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJuluss&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+- Javascript
 
 <h3 align="left">Summary:</h3>
 -   ⚙️ I’m currently working on Dark Dus (https://github.com/DarkDusOfficial/CustomFortniteBotLobbby) <br>
