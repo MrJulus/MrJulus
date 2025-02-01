@@ -23,3 +23,4 @@ I'm probably coding “DarkDus” <br>
 
 ### 💬 Reach Me On:
 - **Discord**: **``@mq_julus``**:
+- <a href="https://discord.com/users/924233905857499166">View my discord account</a>
