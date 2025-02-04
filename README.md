@@ -31,7 +31,7 @@ I'm probably coding “DarkDus” <br>
 ---
 
 <h2 align="left">Languages and Tools:</h2>
-<a href="https://github.com/mr-julus" target="blank"><img src="https://skillicons.dev/icons?i=nodejs,js,py,html,css,git,github&perline=18" width="100%"></a>
+<a href="https://github.com/MrJulus" target="blank"><img src="https://skillicons.dev/icons?i=nodejs,js,py,html,css,git,github&perline=18" width="100%"></a>
 
 ---
 
