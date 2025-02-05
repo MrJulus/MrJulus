@@ -22,9 +22,9 @@ I'm probably coding a new project or just updating my actual project <br>
 <h2 align="left">Summary:</h2>
 <h3 align="left">My Projects:</h3>
 -   DarkDus - A Custom Fortnite Bot Lobby (https://github.com/DarkDusOfficial/CustomFortniteBotLobby) <br>
-which is a project I created because I had trouble finding a Fortnite Bot Lobby, so I decided to create one. <br><br>
--   JSONTY - A minimalist programming language based on JSON. (https://github.com/MrJulus/JSONTY) <br><br>
--   DiscordSlashCraft - A customizable Discord bot framework that allows users to easily create and manage slash commands through a simple configuration file. <br><br>
+which is a project I created because I had trouble finding a Fortnite Bot Lobby, so I decided to create one. <br>
+-   JSONTY - A minimalist programming language based on JSON. (https://github.com/MrJulus/JSONTY) <br>
+-   DiscordSlashCraft - A customizable Discord bot framework that allows users to easily create and manage slash commands through a simple configuration file. <br>
 -   ⚙️ I’m currently working on JSONTY or on DiscordSlashCraft <br>
 -   👨‍💻 You can also visit my small website: https://mr-julus.is-a.dev <br>
 
