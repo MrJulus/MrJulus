@@ -4,8 +4,7 @@ A Junior Developper <br>
 I'm 17 (almost 18) and I'm from Switzerland. <br>
 I like to develop small projects just for fun. <br>
 I like playing video games, I play Brawl stars or Fortnite (on my phone...). <br>
-I'm probably coding “DarkDus” <br>
-- which is a project I created because I had trouble finding a Fortnite Bot Lobby, so I decided to create one. <br>
+I'm probably coding a new project or just updating my actual project <br>
 
 ---
 
@@ -23,9 +22,10 @@ I'm probably coding “DarkDus” <br>
 <h2 align="left">Summary:</h2>
 <h3 align="left">My Projects:</h3>
 -   DarkDus - A Custom Fortnite Bot Lobby (https://github.com/DarkDusOfficial/CustomFortniteBotLobby) <br>
+which is a project I created because I had trouble finding a Fortnite Bot Lobby, so I decided to create one. <br><br>
 -   JSONTY - A minimalist programming language based on JSON. (https://github.com/MrJulus/JSONTY) <br><br>
+-   DiscordSlashCraft - A customizable Discord bot framework that allows users to easily create and manage slash commands through a simple configuration file. <br><br>
 -   ⚙️ I’m currently working on JSONTY or on DiscordSlashCraft <br>
-(DiscordSlashCraft is a customizable Discord bot framework that allows users to easily create and manage slash commands through a simple configuration file)<br>
 -   👨‍💻 You can also visit my small website: https://mr-julus.is-a.dev <br>
 
 ---
