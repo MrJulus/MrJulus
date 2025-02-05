@@ -24,7 +24,7 @@ I'm probably coding “DarkDus” <br>
 <h3 align="left">My Projects:</h3>
 -   DarkDus - A Custom Fortnite Bot Lobby (https://github.com/DarkDusOfficial/CustomFortniteBotLobby) <br>
 -   JSONTY - A minimalist programming language based on JSON. (https://github.com/MrJulus/JSONTY) <br><br>
--   ⚙️ I’m currently working on DiscordSlashCraft which is a customizable Discord bot framework that allows users to easily create and manage slash commands through a simple configuration file<br>
+-   ⚙️ I’m currently working on JSONTY or on DiscordSlashCraft which is a customizable Discord bot framework that allows users to easily create and manage slash commands through a simple configuration file<br>
 -   👨‍💻 You can also visit my small website: https://mr-julus.is-a.dev <br>
 
 ---
