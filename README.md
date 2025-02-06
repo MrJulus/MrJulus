@@ -31,7 +31,7 @@
 - 📝 **JSONTY** - A minimalist programming language based on JSON  
   → [🔗 View the project](https://github.com/MrJulus/JSONTY)  
 
-- 🤖 **DiscordSlashCraft** - A customizable Discord bot framework to easily create and manage slash commands
+- 🤖 **DiscordSlashCraft** - A customizable Discord bot framework to easily create and manage slash commands  
   → the project is under developpment
 
 🚀 **Currently working on**: `JSONTY` & `DiscordSlashCraft`  
