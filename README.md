@@ -1,9 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Mr_Julus</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrJulus&label=Profile+Views&color=blue" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🧐 Who am I? 
@@ -28,17 +24,23 @@
 ## 📌 Summary:
 
 ### 📂 My Projects:
-- 🎮 **DarkDus** - A Custom Fortnite Bot Lobby  
-  → [🔗 View the project](https://github.com/DarkDusOfficial/CustomFortniteBotLobby)  
+- 🎮 **DarkDus** - A Custom Fortnite Bot Lobby
   → I built this because I had trouble finding a Fortnite Bot Lobby, so I made one!  
+  → [🔗 View the project](https://github.com/DarkDusOfficial/CustomFortniteBotLobby)  
 
 - 📝 **JSONTY** - A minimalist programming language based on JSON  
   → [🔗 View the project](https://github.com/MrJulus/JSONTY)  
 
 - 🤖 **DiscordSlashCraft** - A customizable Discord bot framework to easily create and manage slash commands
+  → the project is under developpment
 
 🚀 **Currently working on**: `JSONTY` & `DiscordSlashCraft`  
 🌐 **Check out my website** → [https://mr-julus.is-a.dev](https://mr-julus.is-a.dev)  
+
+---
+
+## 🎯 Currently Learning:
+- **🚀 TypeScript**
 
 ---
 
@@ -51,6 +53,19 @@
 
 ---
 
+## ☕ Support Me:
+<a href="https://www.buymeacoffee.com/mrjulus" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-orange" alt="Buy Me A Coffee">
+</a>
+
+---
+
 ## 💬 Reach Me On:
 ### Discord:
 🗨️ `@mq_julus` | [🔗 View my account](https://discord.com/users/924233905857499166)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrJulus&label=Profile+Views&color=blue" alt="Profile Views" />
+</p>
