@@ -53,13 +53,6 @@
 
 ---
 
-## ☕ Support Me:
-<a href="https://www.buymeacoffee.com/mrjulus" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-orange" alt="Buy Me A Coffee">
-</a>
-
----
-
 ## 💬 Reach Me On:
 ### Discord:
 🗨️ `@mq_julus` | [🔗 View my account](https://discord.com/users/924233905857499166)
