@@ -45,9 +45,9 @@
 ---
 
 ## 🛠️ Languages and Tools:
-<p align="center">
+<p align="left">
   <a href="https://github.com/MrJulus" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,py,html,css,git,github&perline=6" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=nodejs,js,py,html,css,git,github" alt="My Skills">
   </a>
 </p>
 
