@@ -59,6 +59,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrJulus&label=Profile+Views&color=blue" alt="Profile Views" />
-</p>
