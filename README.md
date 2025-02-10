@@ -33,7 +33,7 @@
   → [🔗 View the project](https://github.com/MrJulus/JSONTY)  
 
 - 📝 **reqRelay** - A minimalist programming language based on JSON  
-  → [🔗 View the project](https://github.com/MrJulus/reqRelay)
+  → [🔗 View the project](https://github.com/MrJulus/reqRelay)  
   → [🔗 View the website page](https://req-relay.vercel.app/)  
 
 🚀 **Currently working on**: `JSONTY` or `reqRelay`  
