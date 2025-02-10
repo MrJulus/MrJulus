@@ -26,12 +26,17 @@
 ### 📂 My Projects:
 - 🎮 **DarkDus** - A Custom Fortnite Bot Lobby  
   → I built this because I had trouble finding a Fortnite Bot Lobby, so I made one!  
-  → [🔗 View the project](https://github.com/DarkDusOfficial/CustomFortniteBotLobby)  
+  → [🔗 View the project](https://github.com/DarkDusOfficial/CustomFortniteBotLobby)
+  → [🔗 View the website page](https://darkdus.is-a.dev/)  
 
 - 📝 **JSONTY** - A minimalist programming language based on JSON  
   → [🔗 View the project](https://github.com/MrJulus/JSONTY)  
 
-🚀 **Currently working on**: `JSONTY`  
+- 📝 **reqRelay** - A minimalist programming language based on JSON  
+  → [🔗 View the project](https://github.com/MrJulus/reqRelay)
+  → [🔗 View the website page](https://req-relay.vercel.app/)  
+
+🚀 **Currently working on**: `JSONTY` or `reqRelay`  
 🌐 **Check out my website** → [https://mr-julus.is-a.dev](https://mr-julus.is-a.dev)  
 
 ---
