@@ -37,7 +37,7 @@
   → [🔗 View the project](https://github.com/MrJulus/reqRelay)  
   → [🔗 View the website page](https://mr-julus.is-a.dev/reqrelay/)  
 
-🚀 **Currently working on**: `JSONTY` or `reqRelay`  
+🚀 **Currently working on**: `JSONTY` or another project  
 🌐 **Check out my website** → [https://mr-julus.is-a.dev](https://mr-julus.is-a.dev)  
 
 ---
