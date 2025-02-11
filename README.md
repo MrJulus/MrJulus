@@ -31,6 +31,7 @@
 
 - 📝 **JSONTY** - A minimalist programming language based on JSON  
   → [🔗 View the project](https://github.com/MrJulus/JSONTY)  
+  → [🔗 View the website page](https://mr-julus.is-a.dev/jsonty/)  
 
 - 📝 **reqRelay** - A minimalist programming language based on JSON  
   → [🔗 View the project](https://github.com/MrJulus/reqRelay)  
