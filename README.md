@@ -33,7 +33,7 @@
   → [🔗 View the project](https://github.com/MrJulus/JSONTY)  
   → [🔗 View the website page](https://mr-julus.is-a.dev/jsonty/)  
 
-- 📝 **reqRelay** - A minimalist programming language based on JSON  
+- 📝 **reqRelay** - This API allows relaying HTTP requests to another URL
   → [🔗 View the project](https://github.com/MrJulus/reqRelay)  
   → [🔗 View the website page](https://mr-julus.is-a.dev/reqrelay/)  
 
