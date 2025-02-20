@@ -36,6 +36,9 @@
 - 📝 **reqRelay** - This API allows relaying HTTP requests to another URL  
   → [🔗 View the project](https://github.com/MrJulus/reqRelay)  
   → [🔗 View the website page](https://mr-julus.is-a.dev/reqrelay/)  
+  
+- 📝 **Podday Logger** - A robust logging utility for Node.js applications  
+  → [🔗 View the project](https://github.com/MrJulus/PoddayLogger)   
 
 🚀 **Currently working on**: `JSONTY` or another project  
 🌐 **Check out my website** → [https://mr-julus.is-a.dev](https://mr-julus.is-a.dev)  
