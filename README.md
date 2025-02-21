@@ -21,6 +21,11 @@
 
 ---
 
+## 🎯 Currently Learning:
+- **🚀 TypeScript**
+
+---
+
 ## 📌 Summary:
 
 ### 📂 My Projects:
@@ -43,11 +48,6 @@
 
 🚀 **Currently working on**: `JSONTY` or another project  
 🌐 **Check out my website** → [https://mr-julus.is-a.dev](https://mr-julus.is-a.dev)  
-
----
-
-## 🎯 Currently Learning:
-- **🚀 TypeScript**
 
 ---
 
