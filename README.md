@@ -39,12 +39,15 @@
   → [🔗 View the website page](https://mr-julus.is-a.dev/jsonty/)  
 
 - 📝 **reqRelay** - This API allows relaying HTTP requests to another URL  
-  → [🔗 View the project](https://github.com/MrJulus/reqRelay)  
-  → [🔗 View the website page](https://mr-julus.is-a.dev/reqrelay/)  
+  → [🔗 View the project](https://github.com/MrJulus/reqRelay)   
+  → [🔗 View the website page](https://mr-julus.is-a.dev/reqrelay/)   
   
 - 📝 **Podday Logger** - A robust logging utility for Node.js applications  
   → [🔗 View the project](https://github.com/MrJulus/PoddayLogger)   
-  → [🔗 View the website page](https://mr-julus.is-a.dev/podday/)  
+  → [🔗 View the website page](https://mr-julus.is-a.dev/podday/)   
+
+- 📝 **Minecraft Bot** - A simple Minecraft Bot with some features  
+  → [🔗 View the project](https://github.com/MrJulus/MinecraftBot)     
 
 🚀 **Currently working on**: `JSONTY` or another project  
 🌐 **Check out my website** → [https://mr-julus.is-a.dev](https://mr-julus.is-a.dev)  
