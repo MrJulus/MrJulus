@@ -65,7 +65,7 @@
 
 ## 💬 Reach Me On:
 ### Discord:
-🗨️ `@mq_julus` | [🔗 View my account](https://discord.com/users/924233905857499166)
+🗨️ `@mr_julus` | [🔗 View my account](https://discord.com/users/924233905857499166)
 
 ---
 
