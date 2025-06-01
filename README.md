@@ -31,7 +31,7 @@
 ### 📂 My Projects:
 - 🎮 **DarkDus** - A Custom Fortnite Bot Lobby  
   → I built this because I had trouble finding a Fortnite Bot Lobby, so I made one!  
-  → [🔗 View the project](https://github.com/DarkDusOfficial/CustomFortniteBotLobby)  
+  → [🔗 View the project (ARCHIVED)](https://github.com/DarkDusOfficial/CustomFortniteBotLobby)  
   → [🔗 View the website page](https://darkdus.is-a.dev/)  
 
 - 📝 **JSONTY** - A minimalist programming language based on JSON  
