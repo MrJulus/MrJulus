@@ -7,12 +7,7 @@
 📍 **Switzerland**  
 🎮 I like playing **Brawl Stars** & **Fortnite (on my phone...)**  
 ⚡ I'm always working on **new projects** or updating old ones!  
-
----
-
-## 🔗 Accounts:
-- **DarkDus** - A Custom Fortnite Bot Lobby [🔗 View on GitHub](https://github.com/DarkDusOfficial/)
-- **MrJulusOldRepository** - My old repositories [🔗 View on GitHub](https://github.com/MrJulusOldRepository/)
+**MrJulusOldRepository** - You can find my old repositories [🔗 Here on GitHub](https://github.com/MrJulusOldRepository/)  
 
 ---
 
@@ -28,29 +23,10 @@
 
 ## 📌 Summary:
 
-### 📂 My Projects:
+### 📂 My Main Project:
 - 🎮 **DarkDus** - A Custom Fortnite Bot Lobby  
-  → I built this because I had trouble finding a Fortnite Bot Lobby, so I made one!  
   → [🔗 View the project (ARCHIVED)](https://github.com/DarkDusOfficial/CustomFortniteBotLobby)  
   → [🔗 View the website page](https://darkdus.is-a.dev/)  
-
-- 📝 **JSONTY** - A minimalist programming language based on JSON  
-  → [🔗 View the project](https://github.com/MrJulus/JSONTY)  
-  → [🔗 View the website page](https://mr-julus.is-a.dev/jsonty/)  
-
-- 📝 **reqRelay** - This API allows relaying HTTP requests to another URL  
-  → [🔗 View the project](https://github.com/MrJulus/reqRelay)   
-  → [🔗 View the website page](https://mr-julus.is-a.dev/reqrelay/)   
-  
-- 📝 **Podday Logger** - A robust logging utility for Node.js applications  
-  → [🔗 View the project](https://github.com/MrJulus/PoddayLogger)   
-  → [🔗 View the website page](https://mr-julus.is-a.dev/podday/)   
-
-- 📝 **Minecraft Bot** - A simple Minecraft Bot with some features  
-  → [🔗 View the project](https://github.com/MrJulus/MinecraftBot)     
-
-🚀 **Currently working on**: `JSONTY` or another project  
-🌐 **Check out my website** → [https://mr-julus.is-a.dev](https://mr-julus.is-a.dev)  
 
 ---
 
