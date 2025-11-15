@@ -3,10 +3,10 @@
 ---
 
 ## 🧐 Who am I? 
-👨‍💻 Junior Developer
-📍 Switzerland
+- 👨‍💻 Junior Developer
+- 📍 Switzerland
 - I have a good knowledge of Python, JavaScript, and Roblox Lua
-**MrJulusOldRepository** - You can find my old repositories [🔗 Here on GitHub](https://github.com/MrJulusOldRepository/)  
+- MrJulusOldRepository - You can find my old repositories [🔗 Here on GitHub](https://github.com/MrJulusOldRepository/)  
 
 ---
 
