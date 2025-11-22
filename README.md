@@ -17,10 +17,13 @@
 
 ## 📌 Summary:
 
-### 📂 My Main Project:
+### 📂 My Main Projects:
 - 🎮 **DarkDus** - A Custom Fortnite Bot Lobby  
   → [🔗 View the project (ARCHIVED)](https://github.com/DarkDusOfficial/CustomFortniteBotLobby)  
-  → [🔗 View the website page](https://darkdus.is-a.dev/)  
+  → [🔗 View the website page](https://darkdus.is-a.dev/)   
+- 📝 **Podday Logger** - A logging utility for Node.js applications  
+  → [🔗 View the project](https://github.com/MrJulus/PoddayLogger)   
+  → [🔗 View the website page](https://mr-julus.is-a.dev/podday/)   
 
 ---
 
